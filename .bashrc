@@ -1,5 +1,5 @@
 
-# https://linuxize.com/post/bash-functions/
+# https://linuxhandbook.com/replace-text-in-all-files/
 replace_occ () {
   # $1 = path to directory
   # $2 = search text
